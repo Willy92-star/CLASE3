@@ -1,0 +1,5 @@
+tr > para hacer filas
+td > para hacer columnas
+th > para titulos
+
+
